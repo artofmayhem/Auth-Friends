@@ -10,7 +10,7 @@ import Artists from './components/artists'
 import PrivateRoute from './components/PrivateRoute'
 
 import "bootstrap/dist/css/bootstrap.css";
-import "./App.css";
+import "./App.scss";
 
 
 export default function App() {
